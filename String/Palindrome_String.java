@@ -1,5 +1,5 @@
 class Solution {
-    int isPalindrome(String S) {
+    public int isPalindrome(String S) {
         int low = 0;
         int high = S.length()-1;
         while(low < high){
@@ -16,4 +16,15 @@ class Solution {
         }
         return 1;
     }
-};
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.isPalindrome("DUUD"));
+    }
+}
+
+class Test {
+
+    public static void main(String[] args) {
+        System.out.println(new Solution().isPalindrome("saras"));
+    }
+}
