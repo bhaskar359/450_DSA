@@ -1,2 +1,2 @@
 # 450_DSA
-## Aim to crush ~**DSA**~ 💪 in JAVA 🔥🔥🔥
+## Aim to focus on *DSA* 💪 in JAVA 🔥🔥🔥
